@@ -1,0 +1,2 @@
+# Nilaybag.
+Tikler.jso
